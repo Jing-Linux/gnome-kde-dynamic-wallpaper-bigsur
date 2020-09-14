@@ -1,0 +1,1 @@
+# gnome-kde-dynamic-wallpaper-bigsur
