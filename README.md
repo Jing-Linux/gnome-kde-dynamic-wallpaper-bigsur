@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="478" height="326" src="gnome-kde-dynamic-wallpaper-Bigsur.gif">
+  <img width="478" height="326" src="gnome-kde-dynamic-wallpaper-bigsur.gif">
 </p>
 
 
